@@ -139,7 +139,7 @@ while True:
             s.login(email, passwd)
 
             # message to be sent
-            message = "Hii, This is Avi"
+            message = "Hii, This is Ani"
 
             # sending the mail (sender email, receiver email , message)
             s.sendmail(sender email, receiver email, message)
